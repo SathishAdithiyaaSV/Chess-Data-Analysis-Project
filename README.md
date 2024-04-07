@@ -50,7 +50,7 @@ This project will be able to provide some useful stats from chess.com games and 
 For RatingAnalysis.ipynb code a simple run would give all the analysis.
 
 For Chessgamesstats.ipynb after clicking on run all
-the following inputs have to be given:
+the following inputs have to be given:<br>
 1.player_name : chess.com username of the player.(eg. MagnusCarlsen, Hikaru)<br>
 2.host : the host of the computer on whihc it is running.(eg. if host=raksh then file path=C:\raksh\Downloads\...)<br>
 3.year: year in which stats are needed (eg. 2024)<br>
