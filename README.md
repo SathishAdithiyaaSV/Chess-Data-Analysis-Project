@@ -61,8 +61,8 @@ By addressing all the objectives, we aim to provide a comprehensive understandin
 Analyzing chess.com statistics gives some helpful information about where one is lagging and what are his/her strengths.
 ## Further Improvements
 
-1.Using machine learning algorithms to predict the future of chess in various countries.
-2.Analyzing openings and coming up with moredetailed statistics from the chess.com games.
-3.We could have built UI
+1.Using machine learning algorithms to predict the future of chess in various countries.<br>
+2.Analyzing openings and coming up with moredetailed statistics from the chess.com games.<br>
+3.We could have built UI<br>
 ## Youtube Link
 https://www.youtube.com/watch?v=_L4eNPS64dY
