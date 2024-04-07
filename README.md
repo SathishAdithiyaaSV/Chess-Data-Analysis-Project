@@ -41,10 +41,10 @@ Visualization: Develop visually compelling representations of the data, includin
 This project will be able to provide some useful stats from chess.com games and ratings list from fide.com.
 
 ## Tech Stack
-1.Python
-2.Jupyter Notebook
-3.VS code
-4.Git
+1.Python<br>
+2.Jupyter Notebook<br>
+3.VS code<br>
+4.Git<br>
 ## How to run
 for Top100Open code a simple run would give all the analysis.
 
