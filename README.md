@@ -45,14 +45,15 @@ This project will be able to provide some useful stats from chess.com games and 
 2.Jupyter Notebook<br>
 3.VS code<br>
 4.Git<br>
-## How to run
-for Top100Open code a simple run would give all the analysis.
 
-for Chessgamesstats after clicking on run all
+## How to run
+For RatingAnalysis.ipynb code a simple run would give all the analysis.
+
+For Chessgamesstats.ipynb after clicking on run all
 the following inputs have to be given:
-1.player_name : chess.com username of the player.(eg. MagnusCarlsen, Hikaru)
-2.host : the host of the computer on whihc it is running.(eg. if host=raksh then file path=C:\raksh\Downloads\...)
-3.year: year in which stats are needed (eg. 2024)
+1.player_name : chess.com username of the player.(eg. MagnusCarlsen, Hikaru)<br>
+2.host : the host of the computer on whihc it is running.(eg. if host=raksh then file path=C:\raksh\Downloads\...)<br>
+3.year: year in which stats are needed (eg. 2024)<br>
 4.month: month in which stats are needed( eg.03)
 ## Applications
 
